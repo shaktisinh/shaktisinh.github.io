@@ -38,7 +38,6 @@ Bachelore of Computer Application | Saurashtra University (_2011_)
 [Mobile Application Blog](https://medium.com/@shaktisinh)
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,12 +53,13 @@ Bachelore of Computer Application | Saurashtra University (_2011_)
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .card img {
-            border-radius: 50%;
+            border-radius: 10%;
             width: 60px;
             height: 60px;
-            margin-right: 15px;
+            margin-right: 10px;
         }
         .card-content {
+            margin-left:10px
             font-family: Arial, sans-serif;
         }
         .name {
@@ -85,9 +85,10 @@ Bachelore of Computer Application | Saurashtra University (_2011_)
 <body>
 
 <div class="card">
-    <a href="https://www.linkedin.com/in/tobias-meyer" target="_blank">
+    <a href="" target="_blank">
         <img src="https://media.licdn.com/dms/image/v2/D4D03AQFXz9yhmIfzxg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709187994169?e=1735171200&v=beta&t=mofxOupYj71qGH6DdGHsrRiwwRx84bRjLxtykYsynRU" alt="Profile Image">
     </a>
+</br>
     <div class="card-content">
         <div class="name">Joshi Prakash</div>
         <div class="title">CEO & CTO, Cummulitive Software Technologies Pvt.Ltd</div>
