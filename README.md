@@ -44,13 +44,15 @@ Bachelore of Computer Application | Saurashtra University (_2011_)
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .card {
+            display: flex;
+            justify-content: space-between;
             align-items: center;
             padding: 5px;
         }
         .card img {
             border-radius: 10%;
-            width: 100px;
-            height: 100px;
+            width: 60px;
+            height: 60px;
             margin-right: 10px;
         }
         .card-content {
