@@ -9,4 +9,4 @@
 ## Work Experience
 **Lead @ Milestone Technologies (_July 2023 - Present_)**
 
-- [Data Science Blog](https://medium.com/@shaktisinh)
+- [Mobile Application Blog](https://medium.com/@shaktisinh)
