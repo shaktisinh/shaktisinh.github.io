@@ -44,12 +44,8 @@ Bachelore of Computer Application | Saurashtra University (_2011_)
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         .card {
-            display: flex;
             align-items: center;
-            border: 1px solid #ddd;
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 5px;
         }
         .card img {
             border-radius: 10%;
