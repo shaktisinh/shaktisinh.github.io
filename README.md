@@ -1,17 +1,12 @@
 # Mobile Architect
 
-### Education
-Master of Computer Application
+#### Technical Skills: Flutter, Android, iOS, React Native, Mobile DevOps, IoT
 
-### Work Experience
-Experience 1
-- topic one
-- tpoic two
+## Education
+- Master of Computer Application | Gujarat Technical University  (_2014_)								       		
+- Bachelore of Computer Application | Saurashtra University (_2011_)	 			        		
 
-Experience 2
-- topic one
-- tpoic two
+## Work Experience
+**Lead @ Milestone Technologies (_July 2023 - Present_)**
 
-### Projects
-Project 1
-  Description...
+- [Data Science Blog](https://medium.com/@shaktisinh)
