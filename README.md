@@ -49,13 +49,12 @@ Bachelore of Computer Application | Saurashtra University (_2011_)
             border: 1px solid #ddd;
             padding: 15px;
             border-radius: 8px;
-            max-width: 600px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .card img {
             border-radius: 10%;
-            width: 60px;
-            height: 60px;
+            width: 100px;
+            height: 100px;
             margin-right: 10px;
         }
         .card-content {
@@ -88,7 +87,6 @@ Bachelore of Computer Application | Saurashtra University (_2011_)
     <a href="" target="_blank">
         <img src="https://media.licdn.com/dms/image/v2/D4D03AQFXz9yhmIfzxg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709187994169?e=1735171200&v=beta&t=mofxOupYj71qGH6DdGHsrRiwwRx84bRjLxtykYsynRU" alt="Profile Image">
     </a>
-</br>
     <div class="card-content">
         <div class="name">Joshi Prakash</div>
         <div class="title">CEO & CTO, Cummulitive Software Technologies Pvt.Ltd</div>
